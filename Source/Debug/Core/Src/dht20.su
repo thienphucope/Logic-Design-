@@ -1,0 +1,3 @@
+dht20.c:16:15:DHT20_CheckCrc8	24	static
+dht20.c:34:9:DHT20_ReadRegister	40	static
+dht20.c:49:22:DHT20_TriggerMeasurement	40	static
